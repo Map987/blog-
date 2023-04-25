@@ -1,3 +1,2 @@
 # blog-
-blog
-在issue里
+https://github.com/Map987/blog-/issues
